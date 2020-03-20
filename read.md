@@ -1,6 +1,6 @@
 # Parallax Website
 
-![Parallax Website]()
+![Parallax Website](parallax.png)
 <hr>
 A responsive parallax website created with HTML and CSS.
 
